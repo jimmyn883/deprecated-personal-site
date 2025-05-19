@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,aACE,gBACF","file":"main.5bb333ad.chunk.css","sourcesContent":[".profile-pic {\r\n  object-fit: cover;\r\n}\r\n"]}
