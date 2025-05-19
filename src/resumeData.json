@@ -1,18 +1,18 @@
 {
   "main": {
     "name":"Jimmy Njuguna",
-    "description":"2nd year CS Major at University of Virginia | Software Development Engineer",
+    "description":"Full-Stack Software Engineer | B.S. in Computer Science from University of Virginia",
     "image":"profilepic.jpg",
-    "bio":"Born in Denver Colorado, I came to UVA to study Computer Science. As a military child and member of a diverse family, I have traveled to many countries throughout North America, Europe, Africa, Asia, and Australia. These travels introduced me to a vast array of cultures, and I bring a global perspective with me to any workplace. I am passionate about software engineering because it allows me to combine my love for problem-solving with my diverse perspective to consider problems from multiple angles and develop an efficient solution.\n\n I am interested in innovation and am fascinated with how technology continues to transform our world. I enjoy working with others on projects, leading groups to tackle tasks, and providing support for other aspiring STEM students, like serving as a tutor in the Math Honor Society and TA for Intro to Programming at UVA. In my free time, I love to research different types of technology, play basketball, bike, and play video games.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "jmn4dt@virginia.edu",
+    "bio":"I'm a full-stack software engineer with a Computer Science degree from the University of Virginia and two years of professional experience at Amazon, where I focused on full-stack architecture across supply chain, sustainability, and collaboration tools. Today, I manage the web application at SimpleSUB Water, a mission-driven startup building tools to support water conservation and sustainable infrastructure.\n\nMy background as a military kid and global traveler—having lived or spent time across North America, Europe, Africa, Asia, and Australia—shapes how I think, build, and collaborate. I bring a global mindset, a strong sense of inclusion, and a bias for action to every project I take on.\n\nOutside of code, I’ve led peer mentoring groups, taught programming as a Head Teaching Assistant, and built communities as a resident advisor. Whether it's building scalable platforms, leading UI redesigns, or just shipping clean code that makes someone's day easier, I’m here to solve meaningful problems with creativity, empathy, and impact.\n\n",
+    "contactmessage":"Whether you’re building something impactful, looking for a creative collaborator, or just want to chat tech, design, or sustainability—I’m always open to a good conversation. Reach out and let’s talk.\n\n",
+    "email": "jimmyn883@gmail.com",
     "address":{
-      "city":"Charlottesville",
-      "state":"Virginia",
-      "zip": "22903"
+      "city":"Denver",
+      "state":"Colorado",
+      "zip": "80211"
     },
     "website": "jimmyn883.github.io",
-    "resumedownload":"https://drive.google.com/file/d/1C_kFRk01zy3SwrJiF1IR9uOQYLUzv59K/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1o_7qz8UU5bUorfyMWw6X4e_TH5_gDbIS/view?usp=drive_link",
     "social":[
       
       {
@@ -34,6 +34,12 @@
         "category":"Creative coding",
         "image":"nezuko.jpg",
         "url":"https://github.com/jimmyn883/nezuko_drawing/blob/main/drawing.py"
+      },
+      {
+        "title": "Duper Brawler Siblings",
+        "category": "Creative coding",
+        "image": "DuperBrawler.png",
+        "url":"https://uvacs.games/"
       }
     ]
   }
