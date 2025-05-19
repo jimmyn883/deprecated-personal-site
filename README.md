@@ -50,9 +50,9 @@ This is a ReactJS-based personal website template created by Tim Baker - [origin
 
 ### 3. Host Your Site
 1. Make sure that you have all your previous code, saved, added, commited, and pushed before continuing!
-1. After you've set up your site, create a new branch called `<your name>-gh-pages`
+1. After you've set up your site, create a new branch called `gh-pages`
 1. In `package.json`, find the `homepage` field and replace `tools-trade-va-sp1` with your username.
 2. Reinstall packages with `npm install`
 3. In this branch, run `npm run deploy`. This will create a build folder for you. It's important that you do **not** do this in the master branch as the master branch will hold your source code. Don't forget to push this branch to GitHub!
 4. Go to that `homepage` link and see it online!
-* If you do not see it after a few minutes, then go to the Settings tab in your repository, scroll down to **GitHub Pages** and select `<your name>-gh-pages` as the source branch!
+* If you do not see it after a few minutes, then go to the Settings tab in your repository, scroll down to **GitHub Pages** and select `gh-pages` as the source branch!

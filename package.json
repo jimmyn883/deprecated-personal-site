@@ -19,6 +19,12 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  "scripts": {
+  "start": "react-scripts start",
+  "build": "NODE_OPTIONS=--openssl-legacy-provider react-scripts build",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+},
   "browserslist": {
     "production": [
       ">0.2%",
