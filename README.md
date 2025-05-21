@@ -81,7 +81,7 @@ npm run deploy
 3. Go to your repo → Settings → Pages → Set the source branch to `gh-pages` (if not already set).
 
 Your site should now be live at:
-🔗 **[https://jimmyn883.github.io/personal-site](https://jimmyn883.github.io/personal-site)**
+🔗 **[https://jimmyn883.github.io/deprecated-personal-site](https://jimmyn883.github.io/deprecated-personal-site)**
 
 ---
 
