@@ -7,7 +7,7 @@
 
 # Personal Portfolio Website
 
-### [LIVE DEMO](https://jimmyn883.github.io/personal-site/)
+### [https://jimmyn883.github.io/deprecated-personal-site/](https://jimmyn883.github.io/deprecated-personal-site/)
 
 ## Overview
 
