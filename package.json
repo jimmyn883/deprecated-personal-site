@@ -10,7 +10,7 @@
     "react-ga": "^2.3.5",
     "react-scripts": "^4.0.3"
   },
-  "homepage": "https://jimmyn883.github.io/personal-site",
+  "homepage": "https://jimmyn883.github.io/deprecated-personal-site",
   "scripts": {
     "start": "NODE_OPTIONS=--openssl-legacy-provider react-scripts start",
     "build": "NODE_OPTIONS=--openssl-legacy-provider react-scripts build",
