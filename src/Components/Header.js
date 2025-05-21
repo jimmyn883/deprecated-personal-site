@@ -1,19 +1,17 @@
 import React from 'react';
 
 export default function Header({ data }) {
-  if (data) {
-    var name = data.name;
-    var description = data.description;
-    var networks = data.social.map(function (network) {
-      return (
-        <li key={network.name}>
-          <a href={network.url}>
-            <i className={network.className}></i>
-          </a>
-        </li>
-      );
-    });
-  }
+  if (!data) return null; // graceful fail
+
+  const { name, description, social } = data;
+
+  const networks = social.map((network) => (
+    <li key={network.name}>
+      <a href={network.url}>
+        <i className={network.className}></i>
+      </a>
+    </li>
+  ));
 
   return (
     <header id="home">
@@ -27,6 +25,11 @@ export default function Header({ data }) {
           fontWeight: 'bold',
           fontSize: '18px',
           zIndex: 9999,
+         //  position: 'relative',
+          position: 'fixed',
+          top: 0,
+          left: 0,
+          width: '100%',
         }}
       >
         ⚠️ This is an old version of the website. Visit the new site at{' '}
@@ -34,7 +37,7 @@ export default function Header({ data }) {
           href="https://jimmy-njuguna.vercel.app/"
           style={{ color: 'white', textDecoration: 'underline' }}
         >
-          newsite.example.com
+          jimmy-njuguna.vercel.app
         </a>
       </div>
 

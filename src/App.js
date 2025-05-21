@@ -1,11 +1,9 @@
-import React, { Component, useState, useEffect } from 'react';
-import ReactGA from 'react-ga';
-import $ from 'jquery';
+import React from 'react';
 import './App.css';
 import Header from './Components/Header';
 import About from './Components/About';
 import Portfolio from './Components/Portfolio';
-import * as resumeData from './resumeData.json';
+import resumeData from './resumeData.json';
 
 export default function App() {
 
