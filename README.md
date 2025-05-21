@@ -1,3 +1,10 @@
+# ⚠️ This Site Is Deprecated
+
+🚨 This portfolio site is no longer maintained.  
+👉 Please visit the new site here: [https://jimmy-njuguna.vercel.app/](https://jimmy-njuguna.vercel.app/)
+
+---
+
 # Personal Portfolio Website
 
 ### [LIVE DEMO](https://jimmyn883.github.io/personal-site/)
